@@ -1,4 +1,4 @@
-# VIM dotfiles
+# TMUX dotfiles
 
 These are my TMUX dotfiles. They're pretty great.
 
