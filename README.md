@@ -9,5 +9,5 @@ Download and copy everything in `home` to your home directory, or use
 yourself the trouble:
 
     $ homesick clone jgorset/tmux-dotfiles
-    $ homesick symlink jgorset/tmux-dotfiles
+    $ homesick symlink tmux-dotfiles
 
