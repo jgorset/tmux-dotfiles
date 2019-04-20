@@ -11,4 +11,4 @@ yourself the trouble:
     $ homesick clone jgorset/tmux-dotfiles
     $ homesick symlink tmux-dotfiles
 
-In TMUX, press `prefix` - <kbd>I<kbd> to install plugins.
+In TMUX, press `prefix` - <kbd>I</kbd> to install plugins.
